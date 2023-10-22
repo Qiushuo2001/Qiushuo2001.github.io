@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiushuo Wang (王秋硕)"
-description              : "Undergraduate student at Peking University, Beijing, China. Majoring in Space Physics. Focus on the application of Machine Learning in Space Physics. "
+description              : "Undergraduate student at Peking University, Beijing, China. Majoring in Space Physics. Focusing on the application of Machine Learning in Space Physics. "
 repository               : "Qiushuo2001/Qiushuo2001.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiushuo"
+  name             : "Qiushuo Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "wqslovespku@stu.pku.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : 
+  dblp             : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
