@@ -21,7 +21,7 @@ I am currently an undergraduate student at the School of Earth and Space Science
 
 I am currently engaged in two key research projects. The first, "Modeling the Ring Current Oxygen Ions Using Neural Network Technique," has been completed and submitted to the Space Weather journal, where it is under peer review. This project was carried out under the joint supervision of Prof. Chao Yue, Prof. Jacob Bortnik, and Dr. Jinxing Li. My second ongoing project is "Modeling the Local Total Electron Content Using Neural Network Technique," which is conducted under the guidance of Dr. Shan Wang and Prof. Chao Yue from Peking University.
 
-I have collaborated closely with esteemed researchers and am in the process of publishing my findings. As I look forward to furthering my academic career, I am particularly interested in PhD programs that intersect Machine Learning with Geoscience & Space .
+I have collaborated closely with esteemed researchers and am in the process of publishing my findings. As I look forward to furthering my academic career, I am particularly interested in PhD programs that intersect Machine Learning with Geoscience and Space Science.
 
 
 
