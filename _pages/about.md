@@ -1,4 +1,4 @@
----
+![image](https://github.com/Qiushuo2001/Qiushuo2001.github.io/assets/148517886/a73a03d5-80b0-4289-8a60-0a5c2900f1d3)![image](https://github.com/Qiushuo2001/Qiushuo2001.github.io/assets/148517886/85f108c4-fda2-44c9-94d7-04383c0e53d5)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently an undergraduate student at the School of Earth and Space Sciences, Peking University, specializing in Space Physics. My research focus is on the application of machine learning techniques in the field of space physics. I am fortunate to work under the mentorship of several esteemed researchers, including <a href="https://faculty.pku.edu.cn/yuechao/en/index/3246/list/index.htm">Prof. Chao Yue</a> from Peking University, as well as <a href="https://dept.atmos.ucla.edu/jbortnik">Prof. Jacob Bortnik</a> and <a href="https://sites.google.com/site/jinxingli87/home">Dr. Jinxing Li</a> from the University of California, Los Angeles (UCLA).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently engaged in two key research projects. The first, "Modeling the Ring Current Oxygen Ions Using Neural Network Technique," has been completed and submitted to the Space Weather journal, where it is under peer review. This project was carried out under the joint supervision of Prof. Chao Yue, Prof. Jacob Bortnik, and Dr. Jinxing Li. My second ongoing project is "Modeling the Local Total Electron Content Using Neural Network Technique," which is conducted under the guidance of Dr. Shan Wang and Prof. Chao Yue from Peking University.
+
+I have collaborated closely with esteemed researchers and am in the process of publishing my findings. As I look forward to furthering my academic career, I am particularly interested in PhD programs that intersect Machine Learning with Geoscience & Space .
+
 
 
 # 📖 Educations
