@@ -42,7 +42,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 - The model successfully reproduces the variation of global distribution for oxygen ions of different energies during geomagnetic storm time.
 
 </div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/seasonal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +55,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 - The model demonstrates high predictive accuracy in tasks involving unseen data and successfully captures the diurnal, seasonal, and annual variations of TEC.
 
 </div>
-</div>
+
 
 # 🎖 Honors and Awards
 - *2023.09* Scholarship of Academic Excellence, Peking University. 
