@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at the School of Earth and Space Sciences, Peking University, specializing in Space Physics. My research focus is on the application of machine learning techniques in the field of space physics. I am fortunate to work under the mentorship of several esteemed researchers, including <a href="https://faculty.pku.edu.cn/yuechao/en/index/3246/list/index.htm">Prof. Chao Yue</a> from Peking University, as well as <a href="https://dept.atmos.ucla.edu/jbortnik">Prof. Jacob Bortnik</a> and <a href="https://sites.google.com/site/jinxingli87/home">Dr. Jinxing Li</a> from the University of California, Los Angeles (UCLA).
+I am currently an undergraduate student at the School of Earth and Space Sciences, Peking University, majoring in Geophysics (Space Physics). My research focus is on the application of machine learning techniques in the field of space physics. I am fortunate to work under the mentorship of several esteemed researchers, including <a href="https://faculty.pku.edu.cn/yuechao/en/index/3246/list/index.htm">Prof. Chao Yue</a> from Peking University, as well as <a href="https://www.space.ucla.edu/jacob-bortnik">Prof. Jacob Bortnik</a> and <a href="https://sites.google.com/site/jinxingli87/home">Dr. Jinxing Li</a> from the University of California, Los Angeles (UCLA).
 
 I am currently engaged in two key research projects. The first, "Modeling the Dynamic Global Distribution of the Ring Current Oxygen Ions Using Artificial Neural Network Technique", has been completed and submitted to the Space Weather journal, where it is under peer review. This project was carried out under the joint supervision of Prof. Chao Yue, Prof. Jacob Bortnik, and Dr. Jinxing Li. My second ongoing project is "Modeling the Local Total Electron Content Using Neural Network Technique," which is conducted under the guidance of Dr. Shan Wang and Prof. Chao Yue from Peking University.
 
-I have collaborated closely with esteemed researchers and am in the process of publishing my findings. As I look forward to furthering my academic career, I am particularly interested in PhD programs that intersect Machine Learning with Geoscience and Space Science.
+I have collaborated closely with esteemed researchers and am in the process of publishing my findings. As I look forward to furthering my academic career, I am particularly interested in Ph.D. programs that intersect Machine Learning with Geoscience or Space Science.
 
 
 
 # 📖 Educations
-- *2020.09 - 2023.10 (now)*, B.S., Geophysics, Peking University
+- *2020.09 - present*, B.S., Geophysics, Peking University
 
 # 📝 Research Experiences
 
@@ -51,8 +51,8 @@ I have collaborated closely with esteemed researchers and am in the process of p
 
 **Qiushuo Wang**, Shan Wang, Chao Yue
 
-- Employing geomagnetic indices as input variables, a neural network model was developed to estimate the Total Electron Content (TEC) in the geographic region of Beijing.
-- The constructed model demonstrates superior predictive accuracy in tasks involving unseen data and is capable of accurately capturing the diurnal, seasonal, and annual fluctuations in TEC.
+- Using geomagnetic indices as input, a neural network model was developed to estimate the Total Electron Content (TEC) in the geographic region of Beijing.
+- The model demonstrates high predictive accuracy in tasks involving unseen data and successfully captures the diurnal, seasonal, and annual variations of TEC.
 
 </div>
 </div>
