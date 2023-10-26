@@ -44,7 +44,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/seasonal.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/seasonal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modeling Local Total Electron Content Using Artificial Neural Network Technique**
