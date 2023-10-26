@@ -61,3 +61,13 @@ I have collaborated closely with esteemed researchers and am in the process of p
 - *2023.09* Scholarship of Academic Excellence, Peking University. 
 - *2023.09* Award of Excellence in Scientific Research, Peking University.
 - *2023.05* First Prize of the 31st Challenge Cup, Peking University.
+
+# 💯 Major Courses
+- Physics of Middle and Upper Atmosphere: 95/100, A+
+- Space Exploration Information Processing Technology and Experiment: 95/100, A+
+- Probability Theory and Statistics: 95/100, A+
+- Fundamentals of Space Plasma Physics: 91/100, A
+- Introduction to Computational Space Physics: 90/100, A
+- Fundamental Technology of Astronautics: 86/100, A-
+- Fundamental of Space Science and Technology: 86/100, A-
+- Methods of Mathematical Physics: 85/100, A-
