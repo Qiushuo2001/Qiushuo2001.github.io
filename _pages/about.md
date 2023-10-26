@@ -30,7 +30,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 
 # 📝 Research Experiences
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Figure4.png' alt="sym" width="33%"></div><img src='images/Figure5.png' alt="sym" width="33%"></div><img src='images/Figure7.png' alt="sym" width="33%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Figure7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modeling the Dynamic Global Distribution of the Ring Current Oxygen Ions Using Artificial Neural Network Technique**
@@ -44,7 +44,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/seasonal.png' alt="sym" width="50%"></div><img src='images/diurnal.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/seasonal.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modeling Local Total Electron Content Using Artificial Neural Network Technique**
