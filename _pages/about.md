@@ -33,7 +33,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 <div class='paper-box'><div class='paper-box-image'><img src='images/Figure7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Modeling the Dynamic Global Distribution of the Ring Current Oxygen Ions Using Artificial Neural Network Technique**
+**<a href="https://doi.org/10.22541/essoar.169945464.40156443/v1">Modeling the Dynamic Global Distribution of the Ring Current Oxygen Ions Using Artificial Neural Network Technique</a>**
 
 **Qiushuo Wang**, Chao Yue, Jinxing Li, Jacob Bortnik, Donglai Ma, Chae-Woo Jun
 
