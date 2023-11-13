@@ -26,7 +26,7 @@ I have collaborated closely with esteemed researchers and am in the process of p
 
 
 # 📖 Educations
-- *2020.09 - present*, B.S., Geophysics, Peking University
+- *2020.09 - present*, B.S., Physics(Space Science and Technology), Peking University
 
 # 📝 Research Experiences
 
