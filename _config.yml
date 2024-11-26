@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiushuo Wang (王秋硕)"
-description              : "Undergraduate student at Peking University, Beijing, China. Majoring in Physics(Space Sciences and Technology). Focusing on the application of Machine Learning in Space Physics. "
+description              : "Ph.D. student at UCLA. Majoring in Space Physics and focusing on the application of Machine Learning in Space Physics. "
 repository               : "Qiushuo2001/Qiushuo2001.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiushuo Wang (王秋硕)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University"
-  location         : "Beijing, China"
+  bio              : "UCLA"
+  location         : "Los Angeles, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "wqslovespku@stu.pku.edu.cn"
+  email            : "qwang2001@g.ucla.edu"
   researchgate     :  
   uri              :
   bitbucket        :
