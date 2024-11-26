@@ -33,26 +33,14 @@ I am currently a Ph.D student at the University of California, Los Angeles (UCLA
 **Qiushuo Wang**, Chao Yue, Jinxing Li, Jacob Bortnik, Donglai Ma, Chae-Woo Jun
 
 - An artificial neural network model was built to reconstruct ring current oxygen ions using geomagnetic indices as input.
-The model is highly accurate in predicting non‐training set data and successfully captures the enhancement and decay of oxygen ion fluxes.
+- The model is highly accurate in predicting non‐training set data and successfully captures the enhancement and decay of oxygen ion fluxes.
 - The model successfully reproduces the variation of global distribution for oxygen ions of different energies during geomagnetic storms.
 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/seasonal.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Modeling Local Total Electron Content Using Artificial Neural Network**
-
-**Qiushuo Wang**
-
-- Using geomagnetic indices as input, a neural network model was developed to estimate the Total Electron Content (TEC) in the geographic region of Beijing.
-- The model demonstrates high predictive accuracy in tasks involving unseen data and successfully captures the diurnal, seasonal, and annual variations of TEC.
-
-</div>
-
-
 # 🎖 Honors and Awards
+- *2023.05* First Prize of the 31st Challenge Cup, Peking University.
 - *2023.09* Scholarship of Academic Excellence, Peking University. 
 - *2023.09* Award of Excellence in Scientific Research, Peking University.
-- *2023.05* First Prize of the 31st Challenge Cup, Peking University.
+- *2024.09* Graduate Dean’s Scholar Award, UCLA.
