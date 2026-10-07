@@ -1,46 +1,96 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Qiushuo Wang is a Ph.D. student at UCLA studying space physics, machine learning, and wave-particle interactions in Earth's magnetosphere."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+I am a Ph.D. student in Atmospheric and Oceanic Sciences at the **University of California, Los Angeles (UCLA)**, working with [Prof. Jacob Bortnik](https://www.space.ucla.edu/jacob-bortnik). My research focuses on space physics, combining machine learning and satellite observations to study Earth's inner magnetosphere.
 
-I am currently a Ph.D student at the University of California, Los Angeles (UCLA), majoring in Space Physics. My research focuses on Earth's magnetosphere dynamics and machine learning's application in space physics. I am fortunate to work in <a href="https://www.space.ucla.edu/jacob-bortnik">Prof. Jacob Bortnik</a>'s research group.
+I work on **radiation belt and ring current modeling**, **space weather forecasting**, and **plasma waves and wave-particle interactions**.
 
-# 📖 Educations
-- *2020.09 - 2024.07*, B.S., Physics(Space Science and Technology), Peking University, China
-- *2024.09 - present*, Ph.D. student, University of California, Los Angeles, USA
+I received my M.S. in Atmospheric and Oceanic Sciences from UCLA in June 2026.
 
-# 📝 Research Experiences
+<span class="anchor" id="-research-experiences"></span>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Figure7.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Research Experience
+{: #research}
 
-**<a href="https://doi.org/10.1029/2023SW003779">Modeling the Dynamic Global Distribution of the Ring Current Oxygen Ions Using Artificial Neural Network Technique</a>**
+## Graduate Student Researcher · UCLA
+{: .experience-title}
+<p class="entry-meta">September 2024–present · Advisor: Jacob Bortnik</p>
 
-**Qiushuo Wang**, Chao Yue, Jinxing Li, Jacob Bortnik, Donglai Ma, Chae-Woo Jun
+- Apply machine-learning techniques to radiation belt modeling and space weather forecasting.
+- Process satellite observations to investigate wave properties and wave-particle interactions in the inner magnetosphere.
 
-- An artificial neural network model was built to reconstruct ring current oxygen ions using geomagnetic indices as input.
-- The model is highly accurate in predicting non‐training set data and successfully captures the enhancement and decay of oxygen ion fluxes.
-- The model successfully reproduces the variation of global distribution for oxygen ions of different energies during geomagnetic storms.
+## Undergraduate Student Researcher · Peking University
+{: .experience-title}
+<p class="entry-meta">September 2022–July 2024 · Advisor: Chao Yue</p>
 
-</div>
+- Processed and analyzed satellite observations.
+- Developed a machine-learning model to reconstruct ring current oxygen ion distributions.
+
+## Summer Student Researcher · UCLA
+{: .experience-title}
+<p class="entry-meta">July–September 2023 · Advisor: Jacob Bortnik</p>
+
+- Applied machine learning to modeling Earth's ring current.
+
+# Publications
+{: #publications}
+
+## First-author papers
+
+1. **[Observations of the latitude and frequency distributions of equatorward-propagating chorus waves](https://doi.org/10.1029/2026GL122992)**<br>
+   **Wang, Q.**, Li, J., Bortnik, J., Ma, D., He, J., Ma, Q., Kang, N., & Chen, L. (2026).<br>
+   *Geophysical Research Letters*, 53(16), e2026GL122992.
+
+2. **[First observation of mini harmonic structure in magnetosonic waves](https://doi.org/10.1029/2025GL114908)**<br>
+   **Wang, Q.**, Li, J., Bortnik, J., Ma, Q., Tian, S., Baker, D. N., Wygant, J., Hospodarsky, G. B., & Reeves, G. D. (2025).<br>
+   *Geophysical Research Letters*, 52(11), e2025GL114908.
+
+3. **[Modeling the dynamic global distribution of the ring current oxygen ions using artificial neural network technique](https://doi.org/10.1029/2023SW003779)**<br>
+   **Wang, Q.**, Yue, C., Li, J., Bortnik, J., Ma, D., & Jun, C.-W. (2024).<br>
+   *Space Weather*, 22(6), e2023SW003779.
 
 
-# 🎖 Honors and Awards
-- *2023.05* First Prize of the 31st Challenge Cup, Peking University.
-- *2023.09* Scholarship of Academic Excellence, Peking University. 
-- *2023.09* Award of Excellence in Scientific Research, Peking University.
-- *2024.09* Graduate Dean’s Scholar Award, UCLA.
+## Co-authored papers
+
+1. **[Feedback of Ionospheric D Region to the Coupled Geospace System](https://doi.org/10.1029/2026JA035589)**<br>
+   Zhang, Y., Varney, R. H., Wu, H., Merkin, V. G., **Wang, Q.**, Lin, D., & Ma, D. (2026).<br>
+   *Journal of Geophysical Research: Space Physics*, 131(9), e2026JA035589.
+
+2. **[An automatic maximum entropy based wave distribution function (AME-WDF) method and its application on RBSP data](https://doi.org/10.1029/2026JA035479)**<br>
+   Kang, N., **Wang, Q.**, Bortnik, J., He, J., Liu, X., & Chen, L. (2026).<br>
+   *Journal of Geophysical Research: Space Physics*, 131(8), e2026JA035479.
+
+3. **[Modeling ring current proton distribution using MLP, CNN, LSTM, and transformer networks](https://doi.org/10.3389/fspas.2025.1629056)**<br>
+   Li, J., Bortnik, J., **Wang, Q.**, Wu, Y., Lizarraga, A., Angel, M., Wang, B., Wen, Q., & Jiang, J. (2025).<br>
+   *Frontiers in Astronomy and Space Sciences*, 12, 1629056.
+
+
+<span class="anchor" id="-educations"></span>
+
+# Education
+{: #education}
+
+- **University of California, Los Angeles**, Los Angeles, United States<br>
+  Ph.D. student in Atmospheric and Oceanic Sciences · September 2024–present<br>
+  M.S. in Atmospheric and Oceanic Sciences · June 2026
+- **Peking University**, Beijing, China<br>
+  B.S. in Physics (Space Science and Technology) · September 2020–July 2024
+
+<span class="anchor" id="-honors-and-awards"></span>
+
+# Honors and Awards
+{: #honors}
+
+- **September 2024** · Graduate Dean's Scholar Award, UCLA
+- **September 2023** · Peking University Scholarship, Peking University
+- **September 2023** · Award for Scientific Research, Peking University
+- **May 2023** · First Prize of the 31st Challenge Cup, Peking University

@@ -107,3 +107,25 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Keep the CV-based entries readable on desktop and mobile. */
+.page__content {
+    .experience-title {
+        margin-bottom: .25em;
+    }
+
+    .entry-meta {
+        color: #626970;
+        font-size: .95em;
+        margin-bottom: .75em;
+    }
+
+    ol {
+        padding-left: 1.4em;
+
+        li {
+            padding-left: .3em;
+            margin-bottom: 1.5em;
+        }
+    }
+}

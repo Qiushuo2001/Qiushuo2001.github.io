@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Qiushuo Wang (王秋硕)"
-description              : "Ph.D. student at UCLA. Majoring in Space Physics and focusing on the application of Machine Learning in Space Physics. "
+description              : "Space physics, machine learning, and wave-particle interactions in Earth's magnetosphere."
+url                      : "https://qiushuo2001.github.io"
 repository               : "Qiushuo2001/Qiushuo2001.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiushuo Wang (王秋硕)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "UCLA"
+  bio              : "Ph.D. student · UCLA"
   location         : "Los Angeles, USA"
   employer         :
   pubmed           : 
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "Qiushuo2001"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-3151-6331"
+  orcid            : "https://orcid.org/0009-0000-3151-6331"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
